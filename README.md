@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Lucas and my nickname is samsepiol1 or 1uc4s_m4theus!
 
 <!--
 **samsepiol1/samsepiol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
