@@ -2,10 +2,15 @@
 ## My name is Lucas and my nickname is samsepiol1 or 1uc4s_m4theus!
 
 Hacking  👨🏻‍💻
+
 Software Engineer ⚙️
+
 Research 🔍
+
 Computer Network Technician 🖥️
+
 Web Development Technician  💻
+
 Student of Internet Systems  👨‍🎓
 
 <!--
