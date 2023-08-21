@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Lucas and my nickname is samsepiol1 or 1uc4s_m4theus!
+## My name is Lucas and my nickname is 1uc4s_m4theus!
 
 Hacking  👨🏻‍💻
 
