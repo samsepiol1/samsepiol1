@@ -12,13 +12,12 @@ Entrepreneur, cybersecurity researcher, software engineer and content creator.
 
  <details>
   
-<summary><b><u>Mechatronics Developer 🛠</u></b></summary>
+<summary><b><u> Entrepreneur 🛠</u></b></summary>
 
-I build hardware prototypes, educational PCBs, 3D enclosures, and other multidisciplinary projects.
+I was responsible for starting digital ventures in the tourism and entertainment area.
 
-- 🕵️‍♀️ [WiCon Kit](https://github.com/ANG13T/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
-- 🛠  [Oura](https://github.com/ANG13T/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
-
+- 🏖️ [LavaiLavemTurismo](https://www.instagram.com/lavailavemturismo/): A tourist tour company focused on the inclusion and applicability of emerging technologies
+- 🎵 [RecomendMe](https://secbr.medium.com/recomendeme-uma-plataforma-de-recomenda%C3%A7%C3%B5es-feita-por-pessoas-para-pessoas-02ff0b3383f8): a music and cultural content recommendations platform 
 </details>
 
 <details>
@@ -59,17 +58,7 @@ I write extensive research articles on platforms such as Hackernoon and Medium. 
 
 </details>
 
-<details>
- 
-<summary><b><u>Aerospace Enthusiast 🚀</u></b></summary>
 
-I am deeply fascinated by the fields of astronomy, aerospace, and aeronautics, and find ways to merge my passion for space with my core skill sets. 
-
-- NASA SEES Intern
-- Pilot flying out of KSMO
-- 🛰 [SatIntel](https://github.com/ANG13T/SatIntel): OSINT tool for satellites that extracts telemetry and orbital predictions
-
-</details>
 
 <details>
  
