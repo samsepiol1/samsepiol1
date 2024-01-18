@@ -1,1 +1,1 @@
-<img src="https://github.com/samsepiol1/samsepiol1/blob/master/images/minha_logo2" width="600">
+<img src="https://github.com/samsepiol1/samsepiol1/blob/main/images/minha_logo2.png" width="600">
