@@ -35,7 +35,7 @@ As an information security researcher I ended up helping several companies prote
 With an engineering spirit, I modeled, planned, developed and contributed to several projects using different programming languages 
 - 🏥  [SisMed](https://clinquant-sfogliatella-68dd08.netlify.app/): Project of a hospital in which there are several rooms in its surgical center. The operating rooms have resources for groups of medical specialties, being appropriate for surgeries within one specialty.
 - 📦 [SGE](https://github.com/kamipip/SGE): an inventory management system to help manage the inflows, outflows and stock levels of products in a company.
-- ⛑️  [Pilot Fast Track](https://sos-doc-ten.vercel.app/): a first aid app with an offline first approach
+- ⛑️  [S.O.S - First Aid](https://sos-doc-ten.vercel.app/): a first aid app with an offline first approach
 
 </details>
 
