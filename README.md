@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Matheus</h1>
-<h3 align="center">Co-Founder, CyberSecutirty Researcher and Enginner</h3>
+<h3 align="center">Co-Founder, CyberSecurity Researcher and Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsepiol1&label=Profile%20views&color=0e75b6&style=flat" alt="samsepiol1" /> </p>
 
