@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently co-founder [lavailavemturismo](https://www.instagram.com/lavailavemturismo/)
+- 🔭 I’m currently co-founder [lavailavemturismo](https://www.instagram.com/lavailavemturismo/) and founder [recomendeme](www.recomendeme.com.br)
 
 - 🌱 I’m currently learning **Artificial Intelligence and HPC**
 
